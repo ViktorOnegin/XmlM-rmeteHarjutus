@@ -1,0 +1,10 @@
+D:\programs\Visual Studio 2017\XML Märkmed\XML Märkmed\bin\Debug\XML Märkmed.exe.config
+D:\programs\Visual Studio 2017\XML Märkmed\XML Märkmed\bin\Debug\XML Märkmed.exe
+D:\programs\Visual Studio 2017\XML Märkmed\XML Märkmed\bin\Debug\XML Märkmed.pdb
+D:\programs\Visual Studio 2017\XML Märkmed\XML Märkmed\obj\Debug\XML Märkmed.csprojResolveAssemblyReference.cache
+D:\programs\Visual Studio 2017\XML Märkmed\XML Märkmed\obj\Debug\XML_Märkmed.Form1.resources
+D:\programs\Visual Studio 2017\XML Märkmed\XML Märkmed\obj\Debug\XML_Märkmed.Properties.Resources.resources
+D:\programs\Visual Studio 2017\XML Märkmed\XML Märkmed\obj\Debug\XML Märkmed.csproj.GenerateResource.Cache
+D:\programs\Visual Studio 2017\XML Märkmed\XML Märkmed\obj\Debug\XML Märkmed.csproj.CoreCompileInputs.cache
+D:\programs\Visual Studio 2017\XML Märkmed\XML Märkmed\obj\Debug\XML Märkmed.exe
+D:\programs\Visual Studio 2017\XML Märkmed\XML Märkmed\obj\Debug\XML Märkmed.pdb
